@@ -1,1 +1,1 @@
-# Solving Sudoku with the use of Hopfield Neural Networks
+# An Evaluation of Machine Learning Techniques on an Advanced Benchmark
